@@ -47,7 +47,7 @@
     "lodash": "^4.17.23",
     "mime-match": "^1.0.2",
     "namespace-emitter": "^2.0.1",
-    "nanoid": "^5.0.9",
+    "nanoid": "^6.0.2",
     "preact": "^10.26.10"
   },
   "devDependencies": {
@@ -59,6 +59,6 @@
     "postcss-cli": "^11.0.1",
     "sass": "^1.89.2",
     "typescript": "^5.8.3",
-    "vitest": "^3.2.4"
+    "vitest": "^5.1.0"
   }
 }
